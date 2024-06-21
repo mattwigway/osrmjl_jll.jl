@@ -1,0 +1,84 @@
+[[osrmjl]]
+arch = "aarch64"
+git-tree-sha1 = "0cb736d728d4f069f0f82f2801b38275107aa4c2"
+os = "macos"
+
+    [[osrmjl.download]]
+    sha256 = "7d5793fceb3722fbe042cf44efa963878eaa7b6a0492017491bbbddff6d77972"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.aarch64-apple-darwin.tar.gz"
+[[osrmjl]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13c8b8187ceaf79b4054cedd59a0eedd09e10ecb"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "227e047fdacb483e615a9654d31d6cdbbec8e78799f65f4993be5a2d75e0ffee"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[osrmjl]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b8a635e0c0a00c2196d11950cca1328c3ee06c6"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "7c2f83902ca6b0430e6357be81a01d2f083361e61b9c2f17696cf69d7c0ce86f"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[osrmjl]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0757c97e08ca061aa98cd35b299fdb1e56bb520c"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "cf0f3d396ad50bff22f2f31e5e4cb6b8e58094df534df061cfa8106064851f8b"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[osrmjl]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a45e55c75314687bd473f6db0e9142e5adb2463a"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "a1582648293f12f3a5965575b9cfc6e937c808c61953eef2c197033ed03de721"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[osrmjl]]
+arch = "x86_64"
+git-tree-sha1 = "7a455a9ce04da70bf0efaa9735737802ff2e016d"
+os = "macos"
+
+    [[osrmjl.download]]
+    sha256 = "c2dec4fd529cdaf3b7f4cea3eeecc78920bc215576f93893353e6c319d92a334"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.x86_64-apple-darwin.tar.gz"
+[[osrmjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69779d3007b9797eddb4526b869e427cc8e98b1f"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "8c3d10a8eac5bd2e24520d849065d45ffc828484cc070b3d04b2ae8bc94a1e7a"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[osrmjl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "722160aeb5516f4fcd8526c15f74de6457298131"
+libc = "glibc"
+os = "linux"
+
+    [[osrmjl.download]]
+    sha256 = "760109a0a3c9b3c2955af88703997163c4d99c4dbc7618aa2d42f8999c5ff7b9"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[osrmjl]]
+arch = "x86_64"
+git-tree-sha1 = "4928b7ab4516f7ea0ec7a4ade7f42ccac060f6c6"
+os = "freebsd"
+
+    [[osrmjl.download]]
+    sha256 = "5fadce0e7a9836b6c7f6be8406251e5971af56d98aa74c43442e7be4d12130c9"
+    url = "https://github.com/mattwigway/osrmjl_jll.jl/releases/download/osrmjl-v0.2.1+0/osrmjl.v0.2.1.x86_64-unknown-freebsd.tar.gz"
